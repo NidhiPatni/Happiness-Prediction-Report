@@ -1,7 +1,13 @@
-# Happiness-Prediction-Report
-This is a Happiness Prediction Analysis Report created in R. We have used Kaggle dataset which is also attached in this folder. 
-This is a detailed step by step Data Analytics project which includes below models:
-1. Simple Linear Regression Model
-2. Multiple Linear Regression Model
-3. Forward Stepwise Subset Selection Linear Regression Model
-4. Backward Stepwise Subset Selection Linear Regression Model
+# Happiness Prediction Data Analytics Project 
+I have created a detailed Data Analytics project in R language on top of Kaggle dataset "Happiness Analysis Report of 2021". This report has below modules:
+	1. Data Preparation
+	2. Data Cleaning
+	3. Exploratory Data Analysis
+	4. Hypothesis Testing
+	5. Co-relation check
+	6. Linear Regression Models:
+		a. Simple Linear Regression Model
+		b. Multiple Linear Regression Model
+		c. Forward Stepwise Subset Selection Linear Regression Model
+		d. Backward Stepwise Subset Selection Linear Regression Model
+  7. Model Evaluation Metrics![image](https://user-images.githubusercontent.com/22386152/236983049-3ccf2771-fb37-4565-83ea-2862b0235791.png)
