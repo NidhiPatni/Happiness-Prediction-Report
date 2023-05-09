@@ -5,9 +5,8 @@ I have created a detailed Data Analytics project in R language on top of Kaggle 
 3. Exploratory Data Analysis
 4. Hypothesis Testing
 5. Co-relation check
-6. Linear Regression Models:
-a. Simple Linear Regression Model
-b. Multiple Linear Regression Model
-c. Forward Stepwise Subset Selection Linear Regression Model
-d. Backward Stepwise Subset Selection Linear Regression Model
-7. Model Evaluation Metrics
+6. Simple Linear Regression Model
+7. Multiple Linear Regression Model
+8. Forward Stepwise Subset Selection Linear Regression Model
+9. Backward Stepwise Subset Selection Linear Regression Model
+10. Model Evaluation Metrics
